@@ -90,7 +90,7 @@ def procesar_sabana(archivo_bytes, nombre_archivo):
         
     return df_temp
 
-st.title("⚡ ANALIZADOR DE SÁBANAS FORENSE v25.1")
+st.title("⚡ ANALIZADOR DE SÁBANAS")
 st.write("---")
 
 # --- MENÚ DE NAVEGACIÓN EN LA BARRA BLANCA ---
